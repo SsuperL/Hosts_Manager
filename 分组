@@ -1,0 +1,26 @@
+{"group1":
+    {"host1":
+        {
+        "ip":"192.168.80.5",
+        "username":"czq",
+        "password":"1234",
+        "port":22
+        },
+     "host2":
+        {
+        "ip":"192.168.80.129",
+        "username":"czq",
+        "password":"1234",
+        "port":22
+        }
+        },
+ "group2":
+    {"host1":
+        {
+        "ip":"192.168.80.129",
+        "username":"czq",
+        "password":"1234",
+        "port":22
+        }
+        }
+        }
